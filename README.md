@@ -1,10 +1,3 @@
-Absolutely! Here's the complete and cleanly formatted `README.md` and `requirements.txt` specifically for your **LLM Chat Bot project** based on the `LLM_Chat_Bot_.ipynb` notebook:
-
----
-
-### 📘 `README.md`
-
-````markdown
 # 🤖 LLM Chat Bot using Mistral-7B and llama-cpp-python
 
 This project demonstrates how to deploy and interact with a large language model (LLM) locally using the **Mistral-7B Instruct** model and the `llama-cpp-python` library. The model is run on **Google Colab with a T4 GPU** and performs real-time question answering.
